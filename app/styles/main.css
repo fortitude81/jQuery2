@@ -1,0 +1,9 @@
+body {
+	background-color: #10d1b7;
+}
+.panel {
+    display: inline-block;
+    width: 80%;
+    background-color: gray;
+}
+
